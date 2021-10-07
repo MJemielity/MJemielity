@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MJemielity
+- 👀 I’m interested in Computer Science/Photonics
+- 🌱 I’m currently learning at WUT- Warsaw University of Technology
+- 📫 How to reach me https://www.linkedin.com/in/marcin-jemielity-23aa091a0/
+- marcin.jemielity@ftphotonics.com
